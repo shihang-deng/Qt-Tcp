@@ -4,6 +4,7 @@
 #include <QDialog>
 #include"ctcpkennel.h"
 
+//test git 1
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class MySer; }
